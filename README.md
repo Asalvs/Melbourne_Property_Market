@@ -6,5 +6,5 @@ A Lottery winner, in her 40s, has won $1M and would like to invest it in her dre
 ## 1) We opened both datasets into >> Melbourne_housing_Census_reading_data.ipynb
 ## 2) we merged both into >> merging.pnyb
 ## 3) we opened merged dataset into >> Final _notebook.ipynb
-    plotting and analysis has done into Final _notebook.ipynb
+    plotting and analysis have done into Final _notebook.ipynb
 ## You can find all the images in map_output folder
