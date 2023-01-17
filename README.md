@@ -8,3 +8,6 @@ A Lottery winner, in her 40s, has won $1M and would like to invest it in her dre
 ## 3) we opened merged dataset into >> Final _notebook.ipynb
     plotting and analysis have done into Final _notebook.ipynb
 ## You can find all the images in map_output folder
+
+# Analysis:
+[Project 1 - real estate analysis - report -final.pdf](https://github.com/Asalvs/Melbourne_Property_Market/files/10432047/Project.1.-.real.estate.analysis.-.report.-final.pdf)
